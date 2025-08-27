@@ -1,1 +1,2 @@
-this is first commit- To test MErge command
+this is first commit- To test Merge command
+Git Test Merge 
